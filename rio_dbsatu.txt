@@ -2,3 +2,4 @@ create database riosaputra;
 create table yuyun_cantik;
 create column;
 alter table rsmh add nama varchar (25);
+alter table nama add rio_s (20);

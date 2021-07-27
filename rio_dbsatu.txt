@@ -1,2 +1,4 @@
 create database riosaputra;
 create table rsmh;
+create column;
+alter table rsmh add nama varchar (25);
